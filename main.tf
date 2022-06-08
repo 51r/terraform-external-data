@@ -3,6 +3,6 @@ data "external" "shell" {
 }
 
 output "sample" {
-    value = data.external.shell.result.value
-  
+  value = data.external.shell.result.value
+
 }
