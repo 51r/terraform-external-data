@@ -1,6 +1,6 @@
 # Terraform External Data Source Sample
 
-This repo contains a simple Terraform configuration with data source block that gets information from an outside source (bash script) and present it to Terraform as an output.
+This repo contains a simple Terraform configuration with A data source block that gets information from an outside source (bash script) which references the value from variable "hashi" and present it to Terraform as an output.
 
 # Prerequisite
 You need to have [Terraform CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli) installed on you workstation. 
