@@ -32,7 +32,7 @@ terraform plan
 terraform apply
 ```
 
-You should see `This is an external data from bash source` as an output at the end of the Terraform plan execution.
+You should see `This is the variable value parsed through bash external data source: Bulgaria` as an output at the end of the Terraform plan execution.
 
 <img width="924" alt="Screen Shot 2022-06-08 at 11 31 08 AM" src="https://user-images.githubusercontent.com/52199951/172570422-2dc9c797-07ab-422c-8d82-8c9e3ffbb1b3.png">
 
