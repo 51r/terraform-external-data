@@ -34,5 +34,5 @@ terraform apply
 
 You should see `This is an external data from bash source` as an output at the end of the Terraform plan execution.
 
-<img width="944" alt="Screen Shot 2022-06-08 at 10 37 51 AM" src="https://user-images.githubusercontent.com/52199951/172559531-3d3a0049-416f-4c3f-a508-1d2ab17134c5.png">
+<img width="885" alt="Screen Shot 2022-06-08 at 10 44 43 AM" src="https://user-images.githubusercontent.com/52199951/172561001-9c3557d4-96b4-4f11-9752-10b9c627245e.png">
 
